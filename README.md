@@ -1,7 +1,7 @@
 
 
 Product:TTPlayer（Baidu Music Edition）
-Version:TTPlayer（Baidu Music Edition） 7.0.2 
+Version:TTPlayer（Baidu Music Edition） 7.0.2 （Windows Clients）
 
 # poc of TTplayer dll hijacking
 
