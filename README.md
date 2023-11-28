@@ -1,6 +1,11 @@
+
+
+Product:TTPlayer（Baidu Music Edition）
+Version:TTPlayer（Baidu Music Edition） 7.0.2 
+
 # poc of TTplayer dll hijacking
 
-The untrusted search path vulnerability in Net'Ease CloudMusic allows local users to gain permissions through the urlmon.dll file in the current working directory. This POC demonstrates the use of this dll hijacking vulnerability to pop up a alert
+By hijacking version. DLL, a pop-up message box's DLL will pop up, and then it will be placed in a relative directory and changed to version. DLL to pop up the message box.
 
 https://github.com/xieqiang11/POC4/assets/149745918/5fd8fb84-b7e4-44a7-adb8-0cdec9932c75
 
